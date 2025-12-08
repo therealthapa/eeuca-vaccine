@@ -46,13 +46,9 @@ The labels should be mapped to the following integers:
 
 The performance will be ranked by **F1-score** (Macro).
 
-## Sample Code
-
-Sample code and the baseline framework (Multimodal VaxMeme Framework) used for this dataset are available at our [GitHub Repository](https://github.com/usmaann/VaxMeme).
-
 ## Publication
 
-Participants in the Shared Task are expected to submit a paper to the CASE 2026 workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the CASE 2026 workshop. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
 
 ## Timeline of the Events
 
