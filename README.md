@@ -24,8 +24,8 @@ All the memes have a unique identifier called "index". The labels for training d
 
 **Data**
 
-  * [Training Data](https://drive.google.com/drive/folders/1lNIYxygV1ofUklPMyo26UvVnN7lLLZNg?usp=drive_link)
-  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1F6FUltDrxpsyaXionlMyIa0IeNY1648Z?usp=drive_link)
+  * [Training Data](https://drive.google.com/drive/folders/1lNIYxygV1ofUklPMyo26UvVnN7lLLZNg?usp=sharing)
+  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1e4UIJLiMUNAbYVg2CopsUPwswv-WJeXl?usp=sharing)
 
 ## Use of External Data
 
