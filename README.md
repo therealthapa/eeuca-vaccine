@@ -1,4 +1,4 @@
-# Shared Task on Multimodal Vaccine Critical Meme Detection (VaxMeme) at CASE 2026
+# Shared Task on Multimodal Vaccine Critical Meme Detection (VaxMeme) at EEUCA 2026
 
 Competition Link:
 
@@ -33,9 +33,17 @@ The use of external datasets is permitted. You should also mention your external
 
 ## Evaluation
 
-All the memes have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input.
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. 
 
-Your submission file must be a `.csv` file named `predictions.csv` with columns `index` and `label`. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the `predictions.csv` file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order.
+Your submission file must be a .csv file named ‘predictions.csv’ with columns 'index' and ‘label’. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the 'predictions.csv' file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order. A sample submission file is available [here](https://github.com/therealthapa/eeuca-vaccine/blob/main/sample_submission.csv).
+
+| index | label |
+|----------|----------|
+|12345.jpg|	0|
+|15001.jpg|	1|
+|20524.jpg|	1|
+|35231.jpg|	0|
+|65102.jpg|	1|
 
 The labels should be mapped to the following integers:
 
@@ -47,7 +55,7 @@ The performance will be ranked by **F1-score** (Macro).
 
 ## Publication
 
-Participants in the Shared Task are expected to submit a paper to the CASE 2026 workshop. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the EEUCA 2026 workshop. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
 
 ## Timeline of the Events
 
