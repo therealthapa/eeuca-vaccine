@@ -47,9 +47,9 @@ Your submission file must be a .csv file named ‘predictions.csv’ with column
 
 The labels should be mapped to the following integers:
 
-  * 0: *Pro-vaccine*
-  * 1: *Vaccine critical*
-  * 2: *Neutral*
+  * 0: *Vaccine critical*
+  * 1: *Neutral*
+  * 2: *Pro-vaccine*
 
 The performance will be ranked by **F1-score** (Macro).
 
